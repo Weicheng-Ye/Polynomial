@@ -1,0 +1,6 @@
+authors = ["Weicheng-Ye <victoryeofphysics@gmail.com>"]
+name = "Polynomial"
+uuid = "6a894410-bdd3-11e8-397f-a5274e1afef7"
+version = "0.1.0"
+
+[deps]
